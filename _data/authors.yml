@@ -6,6 +6,6 @@ Name Name:
   email       : "yu.guan@polyu.edu.com"
   bio         : "Dr Yu Guan is an Assistant Professor in the Department of Aeronautical and Aviation Engineering at the Hong Kong Polytechnic University. He obtained his PhD degree in the Department of Mechanical and Aerospace Engineering at The Hong Kong University of Science and Technology and continued working there as a Postdoctoral Fellow before joining PolyU AAE."
   avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  # twitter     : "name"
+  # google_plus : "Name"
 
