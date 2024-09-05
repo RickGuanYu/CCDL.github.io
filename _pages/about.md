@@ -19,10 +19,16 @@ Group news!
 
 Join us?
 ======
-PhD opportunities:
-1. Hong Kong PhD Fellowship Scheme [this repository]([(https://cerg1.ugc.edu.hk/hkpfs/index.html)])
+PhD opportunities [(more info)](https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/):
+1. Hong Kong PhD Fellowship Scheme 
 2. PolyU Presidential PhD Fellowship Scheme
 3. PolyU Research Postgraduate Scholarship
+
+Postdoc opportunities (Please contact PI):
+1. [RGC Postdoctoral Fellowship Scheme](https://www.ugc.edu.hk/eng/rgc/funding_opport/pdfs/) 
+2. [Hong Kong Scholar Program](https://www.hkscholars.org/)
+3. PolyU Postdoctoral Fellowship
+4. Other funding opportunities
 
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
