@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to the Clean Combustion Dynamics Lab (CCDL) at the Hong Kong Polytechnic University. We aim to investigate and develop cleaner, quieter, and safer combustion technologies that will benefit a better world. 
+Welcome to the Clean Combustion Dynamics Lab (CCDL) at the Hong Kong Polytechnic University. We aim to investigate and develop **cleaner**, **quieter**, and **safer** combustion technologies that will benefit a better world. 
 
 Group news!
 ------
-2024.09.05 Our group website is online now! //
-2024.xx.xx A photo is put here.
-![Editing a markdown file for a talk](/images/editing-talk.png)
+2024.09.05 Our group website is online now! \
+2024.xx.xx A photo is put here. \
+(/images/editing-talk.png)
 
 Join us?
 ------
