@@ -25,8 +25,8 @@ author:
   name             : "CCDL"
   pronouns         : # example: "she/her"  
   bio              : "We burn, therefore we are"
-  location         : "Department of Aeronautical and Aviation Engineering"
-  employer         : [HK PolyU](https://www.polyu.edu.hk/en/) #The Hong Kong Polytechnic University
+  location         : "Hong Kong, Hung Hom"
+  employer         : "PolyU" #(https://www.polyu.edu.hk/en/) #The Hong Kong Polytechnic University
   uri              : # URL
   email            : "yu.guan@polyu.edu.hk" 
 
