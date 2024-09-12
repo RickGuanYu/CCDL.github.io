@@ -12,10 +12,10 @@ Welcome to the Clean Combustion Dynamics Lab (CCDL) at the Hong Kong Polytechnic
 Group news!
 ------
 2024.xx.xx A photo is put here. \
-<img src="/images/GP-20240823.jpg" width="400"/>
+<img src="/images/GP-20240823.jpg" width="200"/>
 
 2024.xx.xx A photo is put here. \
-<img src="/images/GP-20240629.jpg" width="400"/>
+<img src="/images/GP-20240629.jpg" width="200"/>
 
 2024.09.05 Our group website is online now! \
 
