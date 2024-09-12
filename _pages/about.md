@@ -17,6 +17,8 @@ Group news!
 2024.xx.xx A photo is put here. \
 <img src="/images/GP-20240629.jpg" width="200"/>
 
+![Editing a markdown file for a talk](/images/GP-20240629.jpg)
+
 2024.09.05 Our group website is online now! \
 
 Join us?
