@@ -13,7 +13,7 @@ Group news!
 ------
 2024.09.05 Our group website is online now! \
 2024.xx.xx A photo is put here. \
-(/images/editing-talk.png)
+![image info](.images/Group photo 20240629.jpg)
 
 Join us?
 ------
