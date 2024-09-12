@@ -13,7 +13,7 @@ Group news!
 ------
 2024.xx.xx A photo is put here. \
 #![image info](/images/GP-20240823.jpg){width=50%} \
-[<img src="/images/GP-20240823.jpg" width="250"/>](/images/GP-20240823.jpg)
+[<img src="/images/GP-20240823.jpg" width="400"/>]
 
 2024.xx.xx A photo is put here. \
 ![image info](/images/GP-20240629.jpg =400x300) \
